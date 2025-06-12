@@ -14,6 +14,7 @@ Complete Data Structures and Algorithms
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ssd46/DSA/tree/master/0031-next-permutation) |
 | [0169-majority-element](https://github.com/ssd46/DSA/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -31,4 +32,8 @@ Complete Data Structures and Algorithms
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ssd46/DSA/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/ssd46/DSA/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
