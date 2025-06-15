@@ -15,6 +15,7 @@ Complete Data Structures and Algorithms
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/ssd46/DSA/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/ssd46/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ssd46/DSA/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ Complete Data Structures and Algorithms
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ssd46/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ssd46/DSA/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -36,4 +38,8 @@ Complete Data Structures and Algorithms
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/ssd46/DSA/tree/master/0031-next-permutation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ssd46/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
