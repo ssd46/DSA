@@ -16,10 +16,12 @@ Complete Data Structures and Algorithms
 | ------- |
 | [0031-next-permutation](https://github.com/ssd46/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/ssd46/DSA/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/ssd46/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ssd46/DSA/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ssd46/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ssd46/DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -42,4 +44,8 @@ Complete Data Structures and Algorithms
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ssd46/DSA/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/ssd46/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
