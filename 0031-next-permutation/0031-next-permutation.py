@@ -21,3 +21,31 @@ class Solution:
             end-=1
         return nums
         
+
+
+        #         n=len(nums)
+        # bp=-1
+        # while(n>=0):
+        #     if(nums[n-2]>=nums[n-1]):
+        #         n-=1
+        #     else:
+        #         bp=n-2
+        #         break
+
+     
+        # if(bp==-1):
+        #     return nums.reverse()
+        
+        # for i in range(len(nums)-1,-1,-1):
+        #     if(nums[i]>nums[bp]):
+        #         nums[i],nums[bp]=nums[bp],nums[i]
+        #         print(nums)
+        #         break
+        # si=bp+1
+        # ei=len(nums)-1
+        # while(si<ei):
+        #     nums[si],nums[ei]=nums[ei],nums[si]
+        #     si+=1
+        #     ei-=1
+
+        # return nums
