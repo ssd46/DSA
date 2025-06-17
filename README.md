@@ -19,11 +19,13 @@ Complete Data Structures and Algorithms
 | [0073-set-matrix-zeroes](https://github.com/ssd46/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ssd46/DSA/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/ssd46/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ssd46/DSA/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ssd46/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ssd46/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ssd46/DSA/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -33,6 +35,7 @@ Complete Data Structures and Algorithms
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ssd46/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ssd46/DSA/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
