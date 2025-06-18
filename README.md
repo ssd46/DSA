@@ -14,6 +14,7 @@ Complete Data Structures and Algorithms
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ssd46/DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/ssd46/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/ssd46/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ssd46/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -23,6 +24,7 @@ Complete Data Structures and Algorithms
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ssd46/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ssd46/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ssd46/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ssd46/DSA/tree/master/0217-contains-duplicate) |
