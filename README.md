@@ -22,6 +22,7 @@ Complete Data Structures and Algorithms
 | [0118-pascals-triangle](https://github.com/ssd46/DSA/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/ssd46/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ssd46/DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/ssd46/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,11 +32,13 @@ Complete Data Structures and Algorithms
 | [0169-majority-element](https://github.com/ssd46/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ssd46/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ssd46/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ssd46/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ssd46/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ssd46/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ssd46/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -43,10 +46,12 @@ Complete Data Structures and Algorithms
 | [0169-majority-element](https://github.com/ssd46/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ssd46/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ssd46/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ssd46/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ssd46/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ssd46/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +70,16 @@ Complete Data Structures and Algorithms
 | ------- |
 | [0049-group-anagrams](https://github.com/ssd46/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ssd46/DSA/tree/master/0242-valid-anagram) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ssd46/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ssd46/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ssd46/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
