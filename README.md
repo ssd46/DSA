@@ -21,6 +21,7 @@ Complete Data Structures and Algorithms
 | [0073-set-matrix-zeroes](https://github.com/ssd46/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ssd46/DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ssd46/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ssd46/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ssd46/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ssd46/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ssd46/DSA/tree/master/0238-product-of-array-except-self) |
@@ -60,6 +61,7 @@ Complete Data Structures and Algorithms
 | ------- |
 | [0031-next-permutation](https://github.com/ssd46/DSA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/ssd46/DSA/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ssd46/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,4 +97,8 @@ Complete Data Structures and Algorithms
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ssd46/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ssd46/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
