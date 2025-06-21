@@ -59,6 +59,7 @@ Complete Data Structures and Algorithms
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/ssd46/DSA/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/ssd46/DSA/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Complete Data Structures and Algorithms
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ssd46/DSA/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/ssd46/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ssd46/DSA/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
