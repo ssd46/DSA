@@ -31,6 +31,7 @@ Complete Data Structures and Algorithms
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ssd46/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ssd46/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ssd46/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ssd46/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ssd46/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -76,6 +77,7 @@ Complete Data Structures and Algorithms
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ssd46/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ssd46/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ssd46/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ssd46/DSA/tree/master/0242-valid-anagram) |
@@ -103,4 +105,8 @@ Complete Data Structures and Algorithms
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ssd46/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ssd46/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
