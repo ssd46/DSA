@@ -112,5 +112,6 @@ Complete Data Structures and Algorithms
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/ssd46/DSA/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ssd46/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
