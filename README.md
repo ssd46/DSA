@@ -109,4 +109,8 @@ Complete Data Structures and Algorithms
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ssd46/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ssd46/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
