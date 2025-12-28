@@ -40,6 +40,7 @@ Complete Data Structures and Algorithms
 | [0242-valid-anagram](https://github.com/ssd46/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ssd46/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ssd46/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ssd46/DSA/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Complete Data Structures and Algorithms
 | [0031-next-permutation](https://github.com/ssd46/DSA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/ssd46/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ssd46/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/ssd46/DSA/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +85,7 @@ Complete Data Structures and Algorithms
 | [0125-valid-palindrome](https://github.com/ssd46/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ssd46/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ssd46/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ssd46/DSA/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -112,6 +115,7 @@ Complete Data Structures and Algorithms
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ssd46/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ssd46/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ssd46/DSA/tree/master/0567-permutation-in-string) |
 ## Database
 |  |
 | ------- |
